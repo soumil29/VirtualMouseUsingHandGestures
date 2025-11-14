@@ -1,3 +1,7 @@
+
+#VirtualMouseUsingHandGestures
+
+
 🖱️ VirtualMouse — Gesture-Controlled Mouse (MediaPipe + OpenCV)
     Control your computer completely hands-free using real-time hand tracking and gestures.
     VirtualMouse converts your webcam feed into smooth, accurate mouse actions — including move, click, drag, and scroll — without any external hardware.
@@ -66,4 +70,4 @@ PROJECT STRUCTURE:
 
 
 THANK YOU!
-# VirtualMouseUsingHandGestures
+
